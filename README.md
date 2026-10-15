@@ -63,8 +63,7 @@ Backend engineer specializing in the design, development and operation of produc
 
 | Project | Scope | Technologies |
 |---|---|---|
-| **SMM Commerce Platform** | Telegram-based sales platform for digital marketing services, integrated with multiple upstream provider APIs. Includes wallet and ledger system, five payment channels, automated refunds, a reseller API and a secured administration panel. Deployed in production. | PHP 8.3, MySQL, Redis, Nginx |
-| **Telegram Commerce Platform** | Sales platform for Telegram Stars and Premium consisting of a bot, Mini App and administration panel on a shared core, with an order state machine, ticketing system and permission matrix. | PHP 8.3, MySQL, Redis |
+| **Farapay** | Production Telegram commerce platform selling social media services, Telegram Stars and Telegram Premium. Aggregates multiple upstream providers and a dedicated Fragment delivery engine behind one catalog, with a wallet and ledger system, six payment channels (domestic gateways, Telegram Stars and on-chain crypto on TRON, BSC and TON), automated refunds, a reseller API, a 21-module administration panel and built-in system monitoring. | PHP 8.3, MySQL, Node.js, Nginx |
 | **Media Delivery Bot** | Scalable Telegram service for audio extraction from major media platforms, with queue-based processing, caching, a self-hosted Bot API server and an administration dashboard. | Python, FastAPI, Celery, PostgreSQL, Docker |
 | **Web Security Scanner** | Non-intrusive security assessment tool producing a weighted security score (0–100) across transport security, headers, DNS, exposed resources and CMS-specific checks. | PHP, cURL, OpenSSL |
 | **Hosting Platform Solutions** | WHMCS administration and ordering interfaces, a domain registrar integration module, and custom WordPress themes and plugins for hosting providers. | PHP, WHMCS, WordPress |
