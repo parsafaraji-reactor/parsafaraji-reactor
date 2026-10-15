@@ -74,3 +74,12 @@ Backend engineer specializing in the design, development and operation of produc
 ### Note
 
 The repositories listed above contain proprietary client and commercial source code and are maintained privately. Technical details and code review can be provided upon request.
+
+---
+
+### Contact
+
+| Channel | Address |
+|---|---|
+| Telegram | [@parsafaraji](https://t.me/parsafaraji) |
+| Email | [parsafaraji9899@gmail.com](mailto:parsafaraji9899@gmail.com) |
