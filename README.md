@@ -13,12 +13,12 @@ I build the part that keeps a product running: custom backends, Telegram bots wi
 
 ### 🛠 Tech stack
 
-**Languages:** PHP · Python · JavaScript · SQL
-**Backend:** PHP 8 · FastAPI · Celery · REST APIs · Webhooks
-**Data:** MySQL · PostgreSQL · Redis
-**Platforms:** WordPress · WooCommerce · WHMCS · Telegram Bot API
-**Servers:** Linux · Nginx · Docker · CDN · Git
-**Security:** RBAC · 2FA · CSRF / XSS / SSRF protection · security auditing
+- **Languages:** PHP · Python · JavaScript · SQL
+- **Backend:** PHP 8 · FastAPI · Celery · REST APIs · Webhooks
+- **Data:** MySQL · PostgreSQL · Redis
+- **Platforms:** WordPress · WooCommerce · WHMCS · Telegram Bot API
+- **Servers:** Linux · Nginx · Docker · CDN · Git
+- **Security:** RBAC · 2FA · CSRF / XSS / SSRF protection · security auditing
 
 ### 🚀 Selected projects
 
