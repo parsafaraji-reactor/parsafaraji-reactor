@@ -1,33 +1,76 @@
-<h1 align="center">Hi, I'm Parsa 👋</h1>
-<p align="center"><b>Backend-focused Full-Stack Developer</b><br>WordPress · Telegram Bots · Custom Backends · WHMCS & Hosting · Cyber Security</p>
+# Parsa Faraji
 
-I build the part that keeps a product running: custom backends, Telegram bots with their admin panels, WordPress themes and plugins, and WHMCS setups for hosting businesses. I also run the servers they live on and keep them secure.
+**Backend Engineer** — Telegram Bot Systems · Custom Backends & Web Services · Cyber Security · Server Infrastructure
 
-### 🧩 What I do
+---
 
-- **Telegram bots** — sales bots, wallets, payment gateways, order queues, and the web admin panels behind them
-- **Custom backends** — REST APIs, webhooks, background workers, role-based access, 2FA
-- **WordPress** — custom themes and plugins, WooCommerce customization, auth and admin tools
-- **WHMCS & hosting** — admin and order-form redesigns, registrar modules, hosting business setups
-- **Cyber security** — website security audits, hardening, finding and fixing vulnerabilities
+### Profile
 
-### 🛠 Tech stack
+Backend engineer specializing in the design, development and operation of production systems for commercial clients. Core expertise lies in Telegram bot platforms with integrated payment processing, custom backend services and APIs, application security, and Linux server infrastructure. Responsible for the full delivery cycle, from system architecture and implementation to deployment, hardening and ongoing operation.
 
-- **Languages:** PHP · Python · JavaScript · SQL
-- **Backend:** PHP 8 · FastAPI · Celery · REST APIs · Webhooks
-- **Data:** MySQL · PostgreSQL · Redis
-- **Platforms:** WordPress · WooCommerce · WHMCS · Telegram Bot API
-- **Servers:** Linux · Nginx · Docker · CDN · Git
-- **Security:** RBAC · 2FA · CSRF / XSS / SSRF protection · security auditing
+---
 
-### 🚀 Selected projects
+### Areas of Expertise
 
-| Project | What it is | Stack |
+**Telegram Bot Systems**
+- Commercial bot platforms with integrated wallets, invoicing and order lifecycle management
+- Payment integration: domestic gateways, Telegram Stars, cryptocurrency and on-chain USDT (TRC20) verification
+- Webhook-based architecture, Mini Apps, mandatory channel membership, broadcast pipelines
+- Self-hosted Telegram Bot API server for large file delivery (up to 2 GB)
+- Web-based administration panels with role-based access control and audit logging
+
+**Backend Engineering & Web Services**
+- Design and implementation of REST APIs and web services
+- Reseller APIs compatible with industry-standard protocols (PerfectPanel API v2)
+- Asynchronous job processing with queue workers (Celery, Redis)
+- Transactional integrity: atomic ledger operations, idempotent payment handling, duplicate-order prevention
+- Third-party provider integration with failure handling, retry queues and automated refunds
+
+**Cyber Security**
+- Website and web application security assessment
+- Development of a proprietary security scanner (TLS, security headers, DNS/SPF/DMARC, exposed files, CMS analysis, port and subdomain discovery)
+- Application hardening: CSRF, XSS, SQL injection and SSRF prevention, secure session handling
+- Authentication: two-factor authentication (SMS, TOTP), Argon2 password hashing, JWT
+- Remediation of identified vulnerabilities, including WordPress user enumeration exposure
+
+**Server Infrastructure & Operations**
+- Provisioning and administration of Linux VPS environments
+- Nginx, PHP-FPM, systemd services and background workers
+- Containerized deployment with Docker and Docker Compose
+- CDN integration, SSL/TLS configuration and automated deployment pipelines
+
+**Hosting & CMS Platforms**
+- WHMCS: administration interface redesign, order-form customization, domain registrar modules
+- WordPress: custom themes and plugins, WooCommerce extensions
+
+---
+
+### Technical Stack
+
+| Domain | Technologies |
+|---|---|
+| Languages | PHP 8.3, Python 3.12, SQL, JavaScript |
+| Backend | Framework-independent PHP architecture, FastAPI, Celery, Composer |
+| Data | MySQL, MariaDB, PostgreSQL, Redis |
+| Messaging | Telegram Bot API, aiogram, Webhooks |
+| Infrastructure | Linux, Nginx, PHP-FPM, systemd, Docker, CDN |
+| Security | RBAC, 2FA (SMS / TOTP), Argon2, JWT, CSRF / XSS / SSRF protection |
+| Platforms | WHMCS, WordPress, WooCommerce |
+
+---
+
+### Selected Projects
+
+| Project | Scope | Technologies |
 |---|---|---|
-| **SMM Sales Bot** | Telegram store for social-media services, connected to SMM panel APIs. Wallet, payment gateways, crypto payments, automatic refunds, reseller API, and an admin panel with roles and 2FA. Running in production. | PHP · MySQL · Redis |
-| **Audio Downloader Bot** | Telegram bot that downloads audio from YouTube, Instagram, TikTok, SoundCloud and more, with a job queue, caching, 2 GB uploads and an admin panel. | Python · FastAPI · Celery · Redis · PostgreSQL · Docker |
-| **Web Security Scanner** | Website security audit tool: security headers, SSL/TLS, DNS/SPF/DMARC, exposed files, WordPress deep scan, open ports, with a 0–100 security score. | PHP |
-| **Telegram Commerce** | Bot and admin panel for selling Telegram Stars and Premium, with ticketing, roles and payment gateways. | PHP · MySQL |
-| **WordPress & WHMCS work** | Custom themes and plugins for hosting and e-commerce businesses, and WHMCS admin and order-form redesigns. | PHP · WordPress · WHMCS |
+| **SMM Commerce Platform** | Telegram-based sales platform for digital marketing services, integrated with multiple upstream provider APIs. Includes wallet and ledger system, five payment channels, automated refunds, a reseller API and a secured administration panel. Deployed in production. | PHP 8.3, MySQL, Redis, Nginx |
+| **Telegram Commerce Platform** | Sales platform for Telegram Stars and Premium consisting of a bot, Mini App and administration panel on a shared core, with an order state machine, ticketing system and permission matrix. | PHP 8.3, MySQL, Redis |
+| **Media Delivery Bot** | Scalable Telegram service for audio extraction from major media platforms, with queue-based processing, caching, a self-hosted Bot API server and an administration dashboard. | Python, FastAPI, Celery, PostgreSQL, Docker |
+| **Web Security Scanner** | Non-intrusive security assessment tool producing a weighted security score (0–100) across transport security, headers, DNS, exposed resources and CMS-specific checks. | PHP, cURL, OpenSSL |
+| **Hosting Platform Solutions** | WHMCS administration and ordering interfaces, a domain registrar integration module, and custom WordPress themes and plugins for hosting providers. | PHP, WHMCS, WordPress |
 
-<sub>Most of my work is private client or business code. Details available on request.</sub>
+---
+
+### Note
+
+The repositories listed above contain proprietary client and commercial source code and are maintained privately. Technical details and code review can be provided upon request.
