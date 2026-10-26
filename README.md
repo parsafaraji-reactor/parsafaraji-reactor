@@ -17,8 +17,8 @@ Multi-provider sales platform for social media services, Telegram Stars and Tele
 - **Payments & ledger** — ZarinPal, Zibal, Telegram Stars, NOWPayments and direct on-chain settlement on TRON, BSC and TON with unique-amount invoice matching; wallet ledger with a unique reference per operation; outbound TON transfers from a custodial wallet
 - **Scale of the codebase** — 25+ administration modules, 31 versioned schema migrations, three locales (fa / en / de)
 
-### ReactorID — KYC & Identity Verification for WHMCS
-`private` · `in production`
+### [ReactorID](https://github.com/parsafaraji-reactor/reactorid) — KYC & Identity Verification for WHMCS
+`commercial` · `in production`
 
 Identity verification module enforcing verified ownership before a customer can purchase.
 
@@ -69,6 +69,6 @@ WHMCS administration and order-flow redesigns, domain registrar integration modu
 
 ---
 
-Source code for the systems above is proprietary and held in private repositories. Architecture walkthroughs and code review are available on request.
+Farapay and client work are proprietary and held in private repositories. Architecture walkthroughs and code review are available on request.
 
 **Contact** — Telegram [@parsafaraji](https://t.me/parsafaraji) · [parsafaraji9899@gmail.com](mailto:parsafaraji9899@gmail.com)
