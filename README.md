@@ -9,7 +9,6 @@ I design, build and operate production backends that move real money: Telegram c
 ## Production Systems
 
 ### Farapay — Telegram Commerce Platform
-`private` · `in production` · in collaboration with [Yarin Faraji](https://github.com/yarinfaraji-yuka)
 
 Multi-provider sales platform for social media services, Telegram Stars and Telegram Premium, operated through a Telegram bot, a web administration panel and a reseller API on a single service core.
 
